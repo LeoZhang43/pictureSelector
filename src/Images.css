@@ -1,0 +1,19 @@
+.main{
+    height: 600px;
+}
+
+.main img{
+    width: 100%;
+    display: block;
+}
+
+.gallery{
+    margin-top: 1rem;
+    display: flex;
+}
+
+.gallery img{
+    height: 100px;
+    cursor: pointer;
+}
+
